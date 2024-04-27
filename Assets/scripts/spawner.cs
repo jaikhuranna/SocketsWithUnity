@@ -72,6 +72,7 @@ public class spawner : MonoBehaviour
         else
         {
             int bigrand;
+            killbande();
             bigrand = Random.Range(0, 36);
             for (int i = 0; i < 1; i++)
             {

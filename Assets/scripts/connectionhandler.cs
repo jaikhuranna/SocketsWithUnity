@@ -97,6 +97,7 @@ public class ConnectionHandler : MonoBehaviour
 
     public void Disconnect()
     {
+        spa.killbande();
         isConnected = false;
         ip = "";
         OnDestroy();
