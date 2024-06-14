@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1a6b79ce-6866-49e7-8c5d-6a759da9b876" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aiot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aiot/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/connectionhandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/connectionhandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/spawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/spawner.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +16,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/scripts/CustomG.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/connectionhandler.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/spawner.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -109,7 +106,9 @@
       <workItem from="1714154633340" duration="2814000" />
       <workItem from="1714212519794" duration="6518000" />
       <workItem from="1714233965399" duration="2697000" />
-      <workItem from="1714239625864" duration="72000" />
+      <workItem from="1714239625864" duration="2839000" />
+      <workItem from="1716573872786" duration="68000" />
+      <workItem from="1718008942140" duration="163000" />
     </task>
     <servers />
   </component>
