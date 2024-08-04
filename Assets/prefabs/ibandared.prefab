@@ -63,8 +63,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1130da75bc2ca6d43aecdfcd515d7a16, type: 2}
-  - {fileID: 2100000, guid: 1130da75bc2ca6d43aecdfcd515d7a16, type: 2}
+  - {fileID: 2100000, guid: ee8a7745bd461874aaae6dea0bb9d8bf, type: 2}
+  - {fileID: 2100000, guid: ee8a7745bd461874aaae6dea0bb9d8bf, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -94,9 +94,9 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9112876547057858409}
   serializedVersion: 4
-  m_Mass: 50
+  m_Mass: 265.79
   m_Drag: 0
-  m_AngularDrag: 0.05
+  m_AngularDrag: 0
   m_CenterOfMass: {x: 0, y: 0, z: 0}
   m_InertiaTensor: {x: 1, y: 1, z: 1}
   m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
